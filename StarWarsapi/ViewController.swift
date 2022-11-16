@@ -8,6 +8,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     
     var persons = [Starwaarjsonfile]()
     
+    //Adding new comment
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
